@@ -1,0 +1,23 @@
+model create hone ke bad hum us pe crud operation perform krte h
+
+kisiko create krna 
+ya read krna
+update krna
+ya delete krna
+
+
+note: hamesha crud operation model pe hi perform hota h
+
+user ka data mongo m store krna h to hume use create krna pdta he
+
+
+await model.create({})
+
+
+user he ya nhi h ya kitne user mere mongo m h wo dekhne ke liye hum read krte hamesha
+
+model.find({})
+
+
+if user ko delete krna h to 
+model.findOneAndDelete()

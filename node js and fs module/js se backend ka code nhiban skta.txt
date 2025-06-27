@@ -1,0 +1,16 @@
+js se backend ka code nhiban skta
+
+
+to ek insaan ne noticwe kia ki me browser ko ched skta hu
+
+to usne ek chidkhani ki   jisse js se hum backend bana skate h.
+
+
+node js is a runtime envoirment
+
+
+
+
+step1
+
+npm init
